@@ -1,34 +1,4 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aflah-pp/count.svg" alt="Profile views counter" />
-</div>
 
-### 
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" alt="coding gif" width="220" style="border-radius: 12px;" />
-
-
-</div>
-
-### 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammed-aflahpp/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=plastic" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.youtube.com/@TengenUzui00" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=plastic" height="25" alt="YouTube logo" />
-  </a>
-  <a href="https://t.me/Peter_xrd" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=plastic" height="25" alt="Telegram logo" />
-  </a>
-  <a href="https://www.instagram.com/afl_4h/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=plastic" height="25" alt="Instagram logo" />
-  </a>
-</div>
-
-### 
 
 <h1 align="center">Hey there 👋 I’m Muhammed Aflah</h1>
 
@@ -96,10 +66,4 @@ Driven by curiosity and the thrill of building stuff that works. I'm a learner g
 
 ### 
 
-<h3 align="left">🎧 Now Playing on Spotify</h3>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/nexusnw999" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-readme.vercel.app/api?user=nexusnw999&theme=default" alt="Spotify Now Playing" />
-  </a>
-</div>
