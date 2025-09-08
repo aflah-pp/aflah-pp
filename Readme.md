@@ -1,69 +1,69 @@
+# 💫 About Me:
+Hi, I'm **Aflah** 👋  
 
+I'm an aspiring **Full-Stack Developer**, currently learning how to build **production-level applications**.  
+I mainly work with **React.js, Tailwind CSS, Python, Django, Git, and React Native** as I grow my skills step by step.  
 
-<h1 align="center">Hey there 👋 I’m Muhammed Aflah</h1>
+🌱 Focused on writing clean, maintainable code and understanding real-world development practices.  
+🚀 Actively learning by building projects that sharpen both my frontend and backend knowledge.  
+🤝 Open to guidance, collaboration, and opportunities that help me level up as a developer.  
 
-### 
+---
 
-<h2 align="left">👩‍💻 About Me</h2>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-aflahpp) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afl_4h) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nexus_nw)  
 
-<h4 align="left">
-Driven by curiosity and the thrill of building stuff that works. I'm a learner grinding through web dev with React, Django, and TailwindCSS. Balancing code with chill anime sessions and a playlist always on shuffle. Here to build clean, efficient, and meaningful digital experiences.
-</h4>
+---
 
-### 
-<h3 align="left">🛠 Languages & Tools</h3>
+## 💻 Tech Stack
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  
 
-<div align="center">
+**Backend:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![DjangoREST](https://img.shields.io/badge/Django%20REST-%23ff1709.svg?style=flat&logo=django&logoColor=white)  
 
-  <!-- Frontend -->
-  <h4>Frontend</h4>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5 logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3 logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="TailwindCSS logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React logo" />
+**Database & Hosting:**  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)  
 
-  <br/><br/>
+**Tools & Others:**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)  
 
-  <!-- Backend -->
-  <h4>Backend</h4>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="Django logo" />
+---
 
-  <br/><br/>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=aflah-pp&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=aflah-pp&theme=tokyonight&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aflah-pp&theme=tokyonight&hide_border=true&layout=compact)  
 
-  <!-- Tools -->
-  <h4>Tools</h4>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman logo" />
+---
 
-  <br/><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aflah-pp&theme=tokyonight&no-frame=true&margin-w=4)  
 
-  <!-- Databases -->
-  <h4>Databases</h4>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL logo" />
+---
 
-</div>
+## ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
+---
 
-<h3 align="left">🔥 My GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aflah-pp&locale=en&layout=compact&langs_count=5&theme=merko&hide_border=false" height="150" alt="Top languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=aflah-pp&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="220" alt="GitHub streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=aflah-pp&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=false" height="250" alt="GitHub stats graph" />
-</div>
-
-### 
-
-
+[![](https://visitcount.itsvg.in/api?id=aflah-pp&icon=0&color=6)](https://visitcount.itsvg.in)  
