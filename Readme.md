@@ -13,7 +13,8 @@ I mainly work with **React.js, Tailwind CSS, Python, Django, Git, and React Nati
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-aflahpp) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afl_4h) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nexus_nw)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nexus_nw) 
+[![Pinterest](https://img.shields.io/badge/Gitlab-%23E60023.svg?logo=Gitlab&logoColor=white)](https://gitlab.com/aflah-pp) 
 
 ---
 
