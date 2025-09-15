@@ -1,70 +1,99 @@
-# 💫 About Me:
-Hi, I'm **Aflah** 👋  
+# 👨‍💻 Muhammed Aflah | Full-Stack Developer  
 
-I'm an aspiring **Full-Stack Developer**, currently learning how to build **production-level applications**.  
-I mainly work with **React.js, Tailwind CSS, Python, Django, Git, and React Native** as I grow my skills step by step.  
+Hi, I’m **Aflah** 👋  
 
-🌱 Focused on writing clean, maintainable code and understanding real-world development practices.  
-🚀 Actively learning by building projects that sharpen both my frontend and backend knowledge.  
-🤝 Open to guidance, collaboration, and opportunities that help me level up as a developer.  
+An aspiring **Full-Stack Developer**, passionate about building **production-level web and mobile apps**.  
+I mainly work with **React.js, Tailwind CSS, Django, and Python**, while exploring modern tools to sharpen my craft.  
 
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-aflahpp) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afl_4h) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nexus_nw) 
-[![Pinterest](https://img.shields.io/badge/Gitlab-%23E60023.svg?logo=Gitlab&logoColor=white)](https://gitlab.com/aflah-pp) 
+🌱 Always learning, writing clean maintainable code, and building real-world projects.  
+🚀 Currently focusing on **React Native** and **scalable backend development**.  
+🤝 Open to collaborations, mentorship, and opportunities to grow.  
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/muhammed-aflahpp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://gitlab.com/aflah-pp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab"/>
+  </a>
+  <a href="https://instagram.com/afl_4h" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://pinterest.com/nexus_nw" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pinterest" height="40" alt="Pinterest"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack  
 **Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  
+<br>
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css) 
+![JS](https://skillicons.dev/icons?i=js) 
+![React](https://skillicons.dev/icons?i=react) 
+![Tailwind](https://skillicons.dev/icons?i=tailwind) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
 
 **Backend:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/Django%20REST-%23ff1709.svg?style=flat&logo=django&logoColor=white)  
+<br>
+![Python](https://skillicons.dev/icons?i=python) 
+![Django](https://skillicons.dev/icons?i=django) 
+![Postman](https://skillicons.dev/icons?i=postman)  
 
 **Database & Hosting:**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)  
+<br>
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![SQLite](https://skillicons.dev/icons?i=sqlite) 
+![Postgres](https://skillicons.dev/icons?i=postgres) 
+![Supabase](https://skillicons.dev/icons?i=supabase)  
+![Vercel](https://skillicons.dev/icons?i=vercel) 
+![Netlify](https://skillicons.dev/icons?i=netlify) 
+![Render](https://skillicons.dev/icons?i=render)  
 
 **Tools & Others:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)  
+<br>
+![Git](https://skillicons.dev/icons?i=git) 
+![GitHub](https://skillicons.dev/icons?i=github) 
+![Figma](https://skillicons.dev/icons?i=figma) 
+![Framer](https://skillicons.dev/icons?i=framer)  
+
+
+**Mobile App:**  
+<br>
+![React Native](https://skillicons.dev/icons?i=react) 
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aflah-pp&theme=tokyonight&hide_border=true&show_icons=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aflah-pp&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah-pp&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aflah-pp&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=aflah-pp&theme=tokyonight&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aflah-pp&theme=tokyonight&hide_border=true&layout=compact)  
+## 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aflah-pp&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aflah-pp&theme=tokyonight&no-frame=true&margin-w=4)  
+## ✍️ Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=aflah-pp&icon=0&color=6)](https://visitcount.itsvg.in)  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aflah-pp&icon=5&color=6" alt="Profile Visit Counter"/>
+</p>
