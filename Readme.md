@@ -13,19 +13,28 @@ I mainly work with **React.js, Tailwind CSS, Django, and Python**, while explori
 
 ## 🌐 Connect with Me  
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/muhammed-aflahpp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="40" alt="LinkedIn"/>
   </a>
+
+  <!-- GitLab -->
   <a href="https://gitlab.com/aflah-pp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" height="40" alt="GitLab"/>
   </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/afl_4h" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" alt="Instagram"/>
   </a>
-  <a href="https://pinterest.com/nexus_nw" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pinterest" height="40" alt="Pinterest"/>
+
+  <!-- Gmail -->
+  <a href="mailto:aflahpp777@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" alt="Gmail"/>
   </a>
 </p>
+
+
 
 ---
 
