@@ -1,5 +1,6 @@
 # 👨‍💻 Muhammed Aflah | Full-Stack Developer  
-
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CF7FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Frontend+Wizard+%7C+Backend+Craftsman;React+%7C+Django+%7C+Python;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" /> </p>
+👋 Hi, I’m Aflah
 Hi, I’m **Aflah** 👋  
 
 An aspiring **Full-Stack Developer**, passionate about building **production-level web and mobile apps**.  
@@ -9,6 +10,8 @@ I mainly work with **React.js, Tailwind CSS, Django, and Python**, while explori
 🚀 Currently focusing on **React Native** and **scalable backend development**.  
 🤝 Open to collaborations, mentorship, and opportunities to grow.  
 
+---
+<p align="center"> <a href="https://port-folio-aflah.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/-🌐%20Visit%20Portfolio-blueviolet?style=for-the-badge&logo=vercel" /> </a> </p>
 ---
 
 ## 🌐 Connect with Me  
@@ -32,6 +35,8 @@ I mainly work with **React.js, Tailwind CSS, Django, and Python**, while explori
   <a href="mailto:aflahpp777@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" alt="Gmail"/>
   </a>
+
+  <a href="https://port-folio-aflah.netlify.app"><button>Portfolio</button></a>
 </p>
 
 
